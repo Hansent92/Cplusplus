@@ -1,8 +1,7 @@
 #ifndef DAUGHTER_H
 #define DAUGHTER_H
 
-
-class Daughter : public Mother
+class Daughter : public Person
 {
 public:
     Daughter();

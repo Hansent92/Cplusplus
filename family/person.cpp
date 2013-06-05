@@ -7,12 +7,12 @@
 #include "son.h"
 using namespace std;
 
-Mother::Mother()
+Person::Person()
 {
-    cout << "Mother is the head of the family" << endl;
+    cout << "this is the Family" << endl;
 }
 
-Mother::~Mother()
+Person::~Person()
 {
-    cout << "mother deconstructor!" << endl;
+    cout << "Person deconstructor!" << endl;
 }

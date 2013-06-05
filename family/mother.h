@@ -1,7 +1,8 @@
 #ifndef MOTHER_H
 #define MOTHER_H
 
-class Mother
+
+class Mother : public Person
 {
 public:
     Mother();

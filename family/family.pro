@@ -17,8 +17,14 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     mother.cpp \
-    daughter.cpp
+    daughter.cpp \
+    father.cpp \
+    person.cpp \
+    son.cpp
 
 HEADERS += \
     mother.h \
-    daughter.h
+    daughter.h \
+    father.h \
+    person.h \
+    son.h
